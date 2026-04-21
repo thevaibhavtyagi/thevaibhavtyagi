@@ -10,16 +10,19 @@ I'm a 2nd-year CSE student focused on full-stack web development and system arch
 
 ### 🚀 Featured Engineering Work
 
-**[Epiqora](#)** | *Node.js, Express, JavaScript, Gemini AI*
+**[Epiqora](https://github.com/thevaibhavtyagi/Epiqora)** | *Node.js, Express, JavaScript, Gemini AI*
+
 A privacy-first, stateless AI skincare assistant. Instead of a basic API wrapper, I engineered a closed-loop system featuring transient state management, strategic multi-model LLM routing for token optimization, and custom jittered exponential backoff to handle third-party API traffic spikes. Zero user data is retained in the database.
 
-**[LabourGuard](#)** | *MongoDB, Express, React, Node.js (MERN)*
+**[LabourGuard](https://github.com/thevaibhavtyagi/LabourGuard)** | *MongoDB, Express, HTML/CSS, Node.js*
+
 A comprehensive labor law compliance system. Built a robust backend architecture featuring a core compliance engine that actively tracks working hours, detects legal violations, and visualizes data through an intuitive employer dashboard.
 
 ### ⚙️ DSA & Continuous Practice
+
 I maintain structured, daily problem-solving repositories to keep my core fundamentals sharp:
-- **[C++ DSA Practice](#):** One file per problem, organized by lecture and concept.
-- **[Java Mastery Journey](#):** Structured practice for core OOP concepts and algorithmic problem-solving.
+- **[C++ DSA Practice](https://github.com/thevaibhavtyagi/cpp-dsa-practice):** One file per problem, organized by lecture and concept.
+- **[Java Mastery Journey](https://github.com/thevaibhavtyagi/java-mastery-journey):** Structured practice for core OOP concepts and algorithmic problem-solving.
 
 ### 📫 Connect with me
 - **Portfolio:** [vaibhavtyagi.me](https://vaibhavtyagi.me/)
