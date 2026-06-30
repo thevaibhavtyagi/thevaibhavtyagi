@@ -1,29 +1,31 @@
 # Vaibhav Tyagi
 
-I'm a 2nd-year CSE student focused on full-stack web development and system architecture. I build resilient, privacy-first applications and spend the rest of my time practicing Data Structures and Algorithms.
+I am a 3rd-year Computer Science student focused on full-stack development and backend architecture. I divide my time between engineering functional, deployed web applications and keeping my core problem-solving fundamentals sharp through continuous DSA practice.
 
 ### 🛠️ Core Stack
-- **Languages:** C++, Java, JavaScript (ES6+)
-- **Frontend:** React.js, HTML/CSS
-- **Backend:** Node.js, Express.js
-- **Database & Tools:** MongoDB, Git, GitHub, REST APIs
+- **Languages:** Java, C/C++, JavaScript (ES6+)
+- **Frontend:** React.js, Tailwind CSS, HTML/CSS
+- **Backend:** Node.js, Express.js, Prisma
+- **Databases & Tools:** PostgreSQL, MongoDB, Git, GitHub, REST APIs
 
-### 🚀 Featured Engineering Work
+### 🚀 Active Engineering & Open Source
+
+**[GirlScript Summer of Code '26](https://github.com/thevaibhavtyagi)** | *Open-Source Contributor*
+- Ranked in the Top 1% globally among 43,000+ developers with 20+ merged pull requests across production codebases.
+- Resolved backend database race conditions, patched WebRTC camera hardware leaks, and resolved Next.js middleware vulnerabilities.
 
 **[Epiqora](https://github.com/thevaibhavtyagi/Epiqora)** | *Node.js, Express, JavaScript, Gemini AI*
+- Built a privacy-first, stateless AI web application handling transient image analysis without retaining user data.
+- Implemented multi-model LLM routing for token efficiency and a custom jittered exponential backoff mechanism to manage API traffic spikes.
 
-A privacy-first, stateless AI skincare assistant. Instead of a basic API wrapper, I engineered a closed-loop system featuring transient state management, strategic multi-model LLM routing for token optimization, and custom jittered exponential backoff to handle third-party API traffic spikes. Zero user data is retained in the database.
+**[LabourGuard](https://github.com/thevaibhavtyagi/LabourGuard)** | *Node.js, Express, MongoDB, UI/UX*
+- Co-developed a secure, backend-focused compliance tracker running a core engine to monitor labor hour allocations and legal violations.
 
-**[LabourGuard](https://github.com/thevaibhavtyagi/LabourGuard)** | *MongoDB, Express, HTML/CSS, Node.js*
-
-A comprehensive labor law compliance system. Built a robust backend architecture featuring a core compliance engine that actively tracks working hours, detects legal violations, and visualizes data through an intuitive employer dashboard.
-
-### ⚙️ DSA & Continuous Practice
-
-I maintain structured, daily problem-solving repositories to keep my core fundamentals sharp:
-- **[C++ DSA Practice](https://github.com/thevaibhavtyagi/cpp-dsa-practice):** One file per problem, organized by lecture and concept.
-- **[Java Mastery Journey](https://github.com/thevaibhavtyagi/java-mastery-journey):** Structured practice for core OOP concepts and algorithmic problem-solving.
+### ⚙️ Algorithms & Problem Solving
+I maintain structured, active repositories to track my daily problem-solving progress (200+ problems solved across platforms):
+- **[C++ DSA Practice](https://github.com/thevaibhavtyagi/cpp-dsa-practice):** Categorized problem implementations tracking algorithmic concepts.
+- **[Java Mastery Journey](https://github.com/thevaibhavtyagi/java-mastery-journey):** Hands-on implementations focused on object-oriented system design and core structures.
 
 ### 📫 Connect with me
 - **Portfolio:** [vaibhavtyagi.me](https://vaibhavtyagi.me/)
-- **LinkedIn:** [/in/vaibhav-tyagi18](https://linkedin.com/in/vaibhav-tyagi18)
+- **LinkedIn:** [linkedin.com/in/vaibhav-tyagi18](https://linkedin.com/in/vaibhav-tyagi18)
