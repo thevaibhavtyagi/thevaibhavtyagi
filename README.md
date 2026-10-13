@@ -27,5 +27,5 @@ I maintain structured, active repositories to track my daily problem-solving pro
 - **[Java Mastery Journey](https://github.com/thevaibhavtyagi/java-mastery-journey):** Hands-on implementations focused on object-oriented system design and core structures.
 
 ### 📫 Connect with me
-- **Portfolio:** [vaibhavtyagi.me](https://vaibhavtyagi.me/)
+- **Portfolio:** [vaibhavtyagi.vercel.app](https://vaibhavtyagi.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/vaibhav-tyagi18](https://linkedin.com/in/vaibhav-tyagi18)
