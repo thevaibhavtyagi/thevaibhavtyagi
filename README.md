@@ -11,7 +11,7 @@ I am a 3rd-year Computer Science student focused on full-stack development and b
 ### 🚀 Active Engineering & Open Source
 
 **[GirlScript Summer of Code '26](https://github.com/thevaibhavtyagi)** | *Open-Source Contributor*
-- Ranked in the Top 1% globally among 43,000+ developers with 20+ merged pull requests across production codebases.
+- Ranked in the Top 3% globally among 43,000+ developers with 15+ merged pull requests across production codebases.
 - Resolved backend database race conditions, patched WebRTC camera hardware leaks, and resolved Next.js middleware vulnerabilities.
 
 **[Epiqora](https://github.com/thevaibhavtyagi/Epiqora)** | *Node.js, Express, JavaScript, Gemini AI*
