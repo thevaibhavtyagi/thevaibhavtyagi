@@ -2,7 +2,7 @@
 
 I am a 3rd-year Computer Science student focused on full-stack development and backend architecture. I divide my time between engineering functional, deployed web applications and keeping my core problem-solving fundamentals sharp through continuous DSA practice.
 
-### 🛠️ Core Stack
+### 🛠️ Core Stack 
 - **Languages:** Java, C/C++, JavaScript (ES6+)
 - **Frontend:** React.js, Tailwind CSS, HTML/CSS
 - **Backend:** Node.js, Express.js, Prisma
